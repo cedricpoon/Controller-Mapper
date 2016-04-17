@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{0FA303E7-062D-EE71-FD44-1B5540C89BC1}") = "Controller Mapper", "Assembly-CSharp.csproj", "{A417B8CA-2A6C-6195-F14C-8BD5B5706604}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A417B8CA-2A6C-6195-F14C-8BD5B5706604}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A417B8CA-2A6C-6195-F14C-8BD5B5706604}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A417B8CA-2A6C-6195-F14C-8BD5B5706604}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A417B8CA-2A6C-6195-F14C-8BD5B5706604}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
